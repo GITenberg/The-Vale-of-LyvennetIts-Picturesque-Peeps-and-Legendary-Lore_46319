@@ -1,0 +1,28 @@
+_repo: The-Vale-of-LyvennetIts-Picturesque-Peeps-and-Legendary-Lore_46319
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46319-h/images/cover-image.jpg
+creator:
+  author:
+    agent_name: Bland, John Salkeld
+    gutenberg_agent_id: '43718'
+    url: http://www.gutenberg.org/2009/agents/43718
+  editor:
+    agent_name: Parker, F. H. M.
+    gutenberg_agent_id: '43719'
+    url: http://www.gutenberg.org/2009/agents/43719
+description: ''
+gutenberg_issued: '2014-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46319'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cumbria (England) -- Description and travel'
+- !lcc 'DA'
+title: 'The Vale of Lyvennet: Its Picturesque Peeps and Legendary Lore'
+url: http://www.gutenberg.org/ebooks/46319
